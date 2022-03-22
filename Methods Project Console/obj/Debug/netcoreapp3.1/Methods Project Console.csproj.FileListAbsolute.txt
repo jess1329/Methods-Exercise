@@ -1,0 +1,14 @@
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\obj\Debug\netcoreapp3.1\Methods Project Console.csproj.AssemblyReference.cache
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\obj\Debug\netcoreapp3.1\Methods Project Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\obj\Debug\netcoreapp3.1\Methods Project Console.AssemblyInfoInputs.cache
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\obj\Debug\netcoreapp3.1\Methods Project Console.AssemblyInfo.cs
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\obj\Debug\netcoreapp3.1\Methods Project Console.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\bin\Debug\netcoreapp3.1\Methods Project Console.exe
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\bin\Debug\netcoreapp3.1\Methods Project Console.deps.json
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\bin\Debug\netcoreapp3.1\Methods Project Console.runtimeconfig.json
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\bin\Debug\netcoreapp3.1\Methods Project Console.runtimeconfig.dev.json
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\bin\Debug\netcoreapp3.1\Methods Project Console.dll
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\bin\Debug\netcoreapp3.1\Methods Project Console.pdb
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\obj\Debug\netcoreapp3.1\Methods Project Console.dll
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\obj\Debug\netcoreapp3.1\Methods Project Console.pdb
+C:\Users\jessi\Desktop\repos\Methods Project\Methods Project Console\obj\Debug\netcoreapp3.1\Methods Project Console.genruntimeconfig.cache
